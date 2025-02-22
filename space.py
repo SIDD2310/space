@@ -67,7 +67,7 @@ with c8:
     components.html(html_code, width=500, height=200)
 
 client = ElevenLabs(
-    api_key=os.getenv("ELEVENLABS_API_KEY"),
+    api_key=st.secrets["ELEVENLABS_API_KEY"],
 )
 # Fetch conversation
 response = client.conversational_ai.get_conversations(
