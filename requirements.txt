@@ -4,4 +4,5 @@ elevenlabs
 streamlit
 st-clickable-images
 web-browser
+google-generativeai 
 
