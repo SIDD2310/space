@@ -1,0 +1,7 @@
+fal-client
+python-dotenv
+elevenlabs
+streamlit
+st-clickable-images
+web-browser
+
