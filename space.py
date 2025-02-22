@@ -15,7 +15,7 @@ def font_to_base64(font_path):
 
 # Path to your font file (ensure this file is in the same directory or update the path)
 # Change this to the actual TTF font filename
-font_path = "slopes-cufonfonts\Slopes.ttf"
+font_path = "Slopes.ttf"
 
 # Convert the font to Base64
 font_base64 = font_to_base64(font_path)
