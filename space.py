@@ -50,7 +50,7 @@ st.markdown(
 )
 k1, k2, k3 = st.columns([1.5,5,1])
 with k2:
-    st.image('img\space.jpg', width=1000)
+    st.image('space.jpg', width=1000)
 
 
 load_dotenv()
